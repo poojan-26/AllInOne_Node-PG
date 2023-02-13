@@ -1,0 +1,34 @@
+{
+  "name": "tekoto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "2.594.0",
+    "bcryptjs": "2.4.3",
+    "bluebird": "3.7.1",
+    "body-parser": "1.19.0",
+    "budgetsms-node": "0.0.2",
+    "busboy-body-parser": "0.3.2",
+    "cors": "2.8.5",
+    "express": "4.17.1",
+    "fcm-node": "1.5.2",
+    "joi": "14.3.1",
+    "jsonwebtoken": "8.5.1",
+    "md5": "^2.2.1",
+    "moment": "2.24.0",
+    "morgan": "1.9.1",
+    "multer": "1.4.2",
+    "nodemailer": "6.3.1",
+    "pg": "7.14.0",
+    "reverse-md5": "0.0.4",
+    "socket.io": "2.3.0",
+    "uuid": "3.3.3",
+    "xlsx": "0.15.3"
+  }
+}
